@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\proeto\proeto\bin\Debug\proeto.exe.config
+C:\Users\Tecnico\source\repos\proeto\proeto\bin\Debug\proeto.exe
+C:\Users\Tecnico\source\repos\proeto\proeto\bin\Debug\proeto.pdb
+C:\Users\Tecnico\source\repos\proeto\proeto\obj\Debug\proeto.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\proeto\proeto\obj\Debug\proeto.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\proeto\proeto\obj\Debug\proeto.exe
+C:\Users\Tecnico\source\repos\proeto\proeto\obj\Debug\proeto.pdb
